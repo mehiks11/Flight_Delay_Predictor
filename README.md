@@ -5,7 +5,7 @@ Mehika Patel
 The aim of this project was to create classification models to predict wether a domestic flight would be 25+ minutes late to arrival. This model could be used as a supplmenetal planning tool for ATC (air traffic control) in planning traffic routes and controlling ahead of flight departures. After creating three types of models: KNN, Logistic, and randomforest, I finalized the logistic model and optimized its f1 score for a balanced precision and recall rate. 
 
 
-## Github Set Up & Project Design
+## Repo Set Up & Project Design
 This project is a binary classification project that pulls on several data sources-- most of which were found on kaggle. Classifying status is based on several different attributes, including features like holiday season (bool), time features, weather conditions, etc. These are all used to test weather a flight will be 25+ minutes delayed on arrival. Accurately classifying these delays would aid ATC in planning air traffic flow days prior to scheduled departure, allowing them to have plans ready for most efficient and safe routes for flights.
 
 This repository is broken up into two main folders: deliverables and code. Deliverables include items like initial project proposal, presentation slides, a simple MVP model.
