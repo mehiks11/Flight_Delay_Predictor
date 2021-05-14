@@ -1,3 +1,0 @@
-## Flight Delays Classification Project
-
-The following project will seek to use delay data on American domestic flights to create a classification model that is able to predict whether or not a certain flight will be delayed or not given several parameters. The data already directly available will be pulled from [kaggle](https://www.kaggle.com/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018). Additional important data, including weather data and distance of flight data, will be pulled using API and other calculations done within python with such data. 
