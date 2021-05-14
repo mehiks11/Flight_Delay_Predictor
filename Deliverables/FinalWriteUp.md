@@ -45,4 +45,4 @@ F1 was used because as a non-expert in aviation traffic, I am unsure of the cost
 
 
 ## Communication
-In addition to the slides and visuals presented, I hope to create an interactive dashboard embedded to my personal website to have as a visual representation of the findings from this project.
+In addition to the slides and visuals presented, I hope to create an interactive dashboard embedded to my personal website to have as a visual representation of the findings from this project. Additionally, this project along with data will be uploaded to my kaggle.
