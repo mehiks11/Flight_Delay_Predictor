@@ -24,6 +24,10 @@ The dataset contains a final set of 12 million data points, with 15 features. A 
 * [Airport Info](https://datahub.io/core/airport-codes)
 * [US Weather Events](https://www.kaggle.com/sobhanmoosavi/us-weather-events)
 
+* The Final Dataset used starting with the [initial modeling notebook](https://github.com/mehiks11/Flight_Delay_Predictor/blob/master/Code/Flights%20Model%20Exploration%20(1).ipynb)
+can be found [here](https://www.kaggle.com/mehiks).
+
+
 
 ## Algorithms
 
