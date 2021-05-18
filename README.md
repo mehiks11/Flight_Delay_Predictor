@@ -1,7 +1,7 @@
 # Predicting Flight Delays
 
 ## Abstract
-The aim of this project was to create classification models to predict wether a domestic flight would be 25+ minutes late to arrival. This model could be used as a supplmenetal planning tool for ATC (air traffic control) in planning traffic routes and controlling ahead of flight departures. After creating three types of models: KNN, Logistic, and randomforest, I finalized the logistic model and optimized its f1 score for a balanced precision and recall rate. 
+The aim of this project was to create classification models to predict whether a domestic flight would be 25+ minutes late to arrival. This model could be used as a supplmenetal planning tool for ATC (air traffic control) in planning traffic routes and controlling ahead of flight departures. After creating three types of models: KNN, Logistic, and randomforest, I finalized the logistic model and optimized its f1 score for a balanced precision and recall rate. 
 
 
 ## Repo Set Up & Project Design
