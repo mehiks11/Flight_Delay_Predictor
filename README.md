@@ -7,7 +7,7 @@ The aim of this project was to create classification models to predict wether a 
 ## Repo Set Up & Project Design
 This project is a binary classification project that pulls on several data sources-- most of which were found on kaggle. Classifying status is based on several different attributes, including features like holiday season (bool), time features, weather conditions, etc. These are all used to test weather a flight will be 25+ minutes delayed on arrival. Accurately classifying these delays would aid ATC in planning air traffic flow days prior to scheduled departure, allowing them to have plans ready for most efficient and safe routes for flights.
 
-This repository is broken up into two main folders: deliverables and code. [Deliverables] (https://github.com/mehiks11/Flight_Delay_Predictor/tree/master/Deliverables) include items like initial project proposal, presentation slides, a simple MVP model.
+This repository is broken up into two main folders: deliverables and code. [Deliverables](https://github.com/mehiks11/Flight_Delay_Predictor/tree/master/Deliverables) include items like initial project proposal, presentation slides, a simple MVP model.
 The code folder includes 7 notebooks. 
 - 2 of these notebooks (the ones labeled "Data Pulling") follow the process of collecting and cleaning the data.
 - 1 [notebook](https://github.com/mehiks11/Flight_Delay_Predictor/blob/master/Code/Flight%20Project%20Initial%20Modeling%20(MVP).ipynb) contains the MVP model.
